@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "mocha": "^2.2.5",
-    "mocha-junit-reporter": "^1.6.1"
+    "mocha-junit-reporter": "git://github.com/pedro-victor/mocha-junit-reporter#4c3fc3af6a"
   }
 }
